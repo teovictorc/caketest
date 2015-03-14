@@ -41,3 +41,17 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#CakePHP 3
+
+/vendor/*
+/config/app.php
+/tmp/*
+/logs/*
+
+#CakePHP 2
+
+/tmp/*
+/Config/core.php
+/Config/database.php
+/vendors/*
